@@ -1,3 +1,4 @@
+import Features from "./assets/Features"
 import Hero from "./Hero"
 import Nav from "./Nav"
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Nav />
       <Hero />
+      <Features />
     </>
   )
 }
